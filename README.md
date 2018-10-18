@@ -1,4 +1,4 @@
-<BR>THIS BOT IS IN PRERELASE!!!!
+<BR>THIS BOT IS IN PREREALASE!!!!
 <BR>
 <BR>Instruction - EN
 <BR>You must change content of variable TOKEN to your bot token
