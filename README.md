@@ -17,6 +17,7 @@
 If you found issue you can report [there!](https://github.com/CodedBugexe/destroy-bot/issues)
 Jeżeli znalażłeś bład zgłoś go [tutaj!](https://github.com/CodedBugexe/destroy-bot/issues)
 <BR>
+<BR>  
 TODO / DO ZROBIENIA
 <BR>PL
 - [x] Stworzenie podstawy bota
