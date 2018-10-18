@@ -16,3 +16,11 @@ Jeżeli chcesz żeby bot zniszczył kanały i role wpisz "destroy" i jeżeli chc
 
 If you found issue you can report [there!](https://github.com/CodedBugexe/destroy-bot/issues)
 Jeżeli znalażłeś bład zgłoś go [tutaj!](https://github.com/CodedBugexe/destroy-bot/issues)
+
+TODO / DO ZROBIENIA
+PL
+- [x] Stworzenie podstawy bota
+- [ ] Stworzenie zawansowanych funkcji bota
+EN
+- [x] Create basic of bot
+- [ ] Create advanced functions of bot
