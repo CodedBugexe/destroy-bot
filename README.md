@@ -21,6 +21,8 @@ TODO / DO ZROBIENIA
 PL
 - [x] Stworzenie podstawy bota
 - [ ] Stworzenie zawansowanych funkcji bota
-EN
+
+                  EN
+
 - [x] Create basic of bot
 - [ ] Create advanced functions of bot
